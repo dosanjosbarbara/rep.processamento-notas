@@ -1,0 +1,14 @@
+Estudante Beatriz média de: 9.00
+Estudante Ricardo média de: 4.00
+Estudante Fernanda média de: 7.33
+Estudante Bruno média de: 2.00
+Estudante Clara média de: 10.00
+Estudante Marcos média de: 0.00
+Estudante Daniela média de: 7.00
+Estudante Tiago não possui notas validas
+Estudante Patrícia média de: 8.50
+Estudante Lucas média de: 5.50
+Estudante Jessica média de: 10.00
+
+Estudantes em recuperação: Ricardo, Bruno, Marcos, Lucas
+Top Students: Clara, Jessica com melhor média de: 10.00
